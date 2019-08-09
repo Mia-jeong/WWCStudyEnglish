@@ -30,4 +30,10 @@
 <li><span>Link: </span><a href='https://www.ted.com/talks/priyanka_jain_how_to_make_applying_for_jobs_less_painful'><span>[TED]How to make applying for jobs less painful</span></a></li>
 
 </ol>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 5] 3 psychological tricks to save money</span></h3>
+<ol>
+<li><span>Date: August, 10, 2019</span></li>
+<li><span>Link: </span><a href='https://www.ted.com/talks/wendy_de_la_rosa_3_psychological_tricks_to_help_you_save_money'><span>[TED]3 psychological tricks to help you save money</span></a></li>
+
+</ol>
 <p>&nbsp;</p>
