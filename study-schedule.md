@@ -36,4 +36,11 @@
 <li><span>Link: </span><a href='https://www.ted.com/talks/wendy_de_la_rosa_3_psychological_tricks_to_help_you_save_money'><span>[TED]3 psychological tricks to help you save money</span></a></li>
 
 </ol>
+</ol>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 6] Talk about yourself, Free talking day!</span></h3>
+<ol>
+<li><span>Date: August, 12, 2019</span></li>
+<li><span>Contents: Talking about yourself, you can talk about whatever you want to do like love, family, a career and etc</span></li>
+
+</ol>
 <p>&nbsp;</p>
