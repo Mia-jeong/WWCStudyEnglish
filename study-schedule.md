@@ -39,8 +39,16 @@
 </ol>
 <h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 6] Talk about yourself, Free talking day!</span></h3>
 <ol>
-<li><span>Date: August, 12, 2019</span></li>
+<li><span>Date: August, 17, 2019</span></li>
 <li><span>Contents: Talking about yourself, you can talk about whatever you want to do like love, family, a career and etc</span></li>
 
 </ol>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 7] Everything is Fine</span></h3>
+<ol>
+<li><span>Date: August, 24, 2019</span></li>
+<li><span>Contents:The Good Place, episode 1 of season 1, from beginning up to 11 minutes of it.</span></li>
+
+</ol>
 <p>&nbsp;</p>
+
+
