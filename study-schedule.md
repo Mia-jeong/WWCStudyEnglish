@@ -43,10 +43,16 @@
 <li><span>Contents: Talking about yourself, you can talk about whatever you want to do like love, family, a career and etc</span></li>
 
 </ol>
-<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 7] Everything is Fine</span></h3>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 7] Everything is Fine, Part 1</span></h3>
 <ol>
 <li><span>Date: August, 24, 2019</span></li>
-<li><span>Contents:The Good Place, episode 1 of season 1, from beginning up to 11 minutes of it.</span></li>
+<li><span>Contents:The Good Place, episode 1 of season 1, (from beginning~ 11:00)</span></li>
+
+</ol>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 8] Everything is Fine, Part 2</span></h3>
+<ol>
+<li><span>Date: August, 31, 2019</span></li>
+<li><span>Contents:The Good Place, episode 1 of season 1, (11:00 ~ to the end)</span></li>
 
 </ol>
 <p>&nbsp;</p>
