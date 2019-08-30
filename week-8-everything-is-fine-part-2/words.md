@@ -24,3 +24,9 @@
 
 **hog**: 자기 배당 이상으로 차지하다
 > You hogged all the shrimp, and now there are shrimp flying around.
+
+**fudge**: 얼버무리다, 날조하다, 지어내다, 속이다
+> Come on, I'm just asking you to fudge a little bit.
+
+**lie low**: 남 눈에 띄지 않도록 하다.
+> I say we just lie low and hope that they don't notice me.
