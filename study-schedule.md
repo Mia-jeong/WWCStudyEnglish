@@ -55,6 +55,18 @@
 <li><span>Contents:The Good Place, episode 1 of season 1, (11:00 ~ to the end)</span></li>
 
 </ol>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 9] Flying, Part 1</span></h3>
+<ol>
+<li><span>Date: September, 7, 2019</span></li>
+<li><span>Contents:The Good Place, episode 2 of season 1, (from beginning ~ to 11:00)</span></li>
+
+</ol>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 10] Flying, Part 2</span></h3>
+<ol>
+<li><span>Date: September, 14, 2019</span></li>
+<li><span>Contents:The Good Place, episode 2 of season 1, (11:00 ~ to the end)</span></li>
+
+</ol>
 <p>&nbsp;</p>
 
 
