@@ -36,7 +36,6 @@
 <li><span>Link: </span><a href='https://www.ted.com/talks/wendy_de_la_rosa_3_psychological_tricks_to_help_you_save_money'><span>[TED]3 psychological tricks to help you save money</span></a></li>
 
 </ol>
-</ol>
 <h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 6] Talk about yourself, Free talking day!</span></h3>
 <ol>
 <li><span>Date: August, 17, 2019</span></li>
@@ -65,6 +64,18 @@
 <ol>
 <li><span>Date: September, 14, 2019</span></li>
 <li><span>Contents:The Good Place, episode 2 of season 1, (11:00 ~ to the end)</span></li>
+
+</ol>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 11] Free talking day, Part 1</span></h3>
+<ol>
+<li><span>Date: September, 21, 2019</span></li>
+<li><span>Contents: think about topics you want to talk to your study mates about</span></li>
+
+</ol>
+<h3><a name="header-n79" class="md-header-anchor md-print-anchor" href="af://n79"> </a><span>[Week 12] Free talking day, Part 2</span></h3>
+<ol>
+<li><span>Date: October, 9, 2019</span></li>
+<li><span>Contents: set the goals and make plans to get to them</span></li>
 
 </ol>
 <p>&nbsp;</p>

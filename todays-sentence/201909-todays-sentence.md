@@ -50,4 +50,43 @@
 - **a bitter pill to swallow** : 어쩔 수 없이, 하기 싫어도 해야 하는 일
 
   - I decided to leave the company because it's too far away from home. That's a bitter pill to swallow for me.
+  
+### [2019-09-16~2019-09-19]
 
+- **scoot over**: 자리를 좁혀 앉다(앉게 하다)
+
+  - Could you guys scoot over a little bit for him?
+  - Scoot over so that more of you can get into the car.
+  
+- **be in a rush**: 급하게, 아주 바쁘게
+
+  - Sorry, I'm in a rush. (죄송해요, 제가 좀 바빠서요)
+  - Take your time. I’m not in a rush. (천천히 하세요. 전 안 바빠요)
+  
+- **is wired to do**: -에 재능이 있다. -로 프로그램 되어있다.
+
+  - I’m wired to do it (나는 이거에 재능이 있어! 남들보다 잘해)
+  - Human brain is wired to focus on the negative.  (인간의 뇌는 부정적인 것에 초점을 맞추도록 프로그램 되어있다.)
+  
+### [2019-09-23~2019-09-26]
+
+- **per se**: 본질적으로, 그 자체로
+
+  - It’s not the money per se that makes them unhappy, but the single-minded pursuit of that money.
+  
+- **get to the point where**: 상황이 진전 되어서 결과적으로 ~하게 되었을때 사용
+
+  - I got stressed out so mush so it got to the point where I’m losing my hair
+  - I speak English so well that it got to the point where people think I’m a native English speaker.
+  
+- **spin one's wheels**: 쳇바퀴를 돌다
+
+  - Although I was developing skills, it got to the point where I was really spinning my wheels.
+  
+### [2019-09-30~2019-10-03]
+
+- **stubborn**: 고집이센, 완고한
+
+  - He doesn't listen to anyone. He is so stubborn
+  - Our dog is stubborn as a mule
+  
