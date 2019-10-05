@@ -90,3 +90,12 @@
   - He doesn't listen to anyone. He is so stubborn
   - Our dog is stubborn as a mule
   
+- **on speaking terms**: 대화를 할만 큼 친근한 사이
+
+  - I had an big fight with my friend yesterday. we are not on speaking terms.
+    we are back on speaking terms.
+    
+- **count on**: 믿고 의지하다(depend on, trust 보다는 비공식적으로 사용 됨), 기대하다
+
+  - You can count on me in a crisis, I am always going to be there for you.
+  - I didn't count on snow. I should have bundled up.
